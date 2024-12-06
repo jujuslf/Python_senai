@@ -1,0 +1,5 @@
+print("ola mundo!")
+print ("sextouuuu")
+print ("finalmenteeeeee")
+print ("programação me persegue")
+print ("não aguento mais")
